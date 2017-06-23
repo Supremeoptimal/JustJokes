@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8E24AA</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="slide_1">#0091EA</color>
+    <color name="slide_2">#FD8469</color>
+    <color name="slide_3">#324A5E</color>
+    <color name="slide_4">#746DAA</color>
+</resources>
